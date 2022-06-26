@@ -133,6 +133,27 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 
 
 ### COORDINATES OF THE MOVEMENTS: 
+TREE:
+
+![image](https://user-images.githubusercontent.com/94165326/175798852-c05d4396-89f1-42c3-9deb-ea58b4ce9597.png)
+
+COORDINATE 1:
+
+![image](https://user-images.githubusercontent.com/94165326/175798859-490ac206-4c94-4fc0-ba79-e2e1b781f16a.png)
+
+COORDINATE 2:
+
+![image](https://user-images.githubusercontent.com/94165326/175798863-5ed8be20-b6b7-46f2-b697-256b161a826b.png)
+
+SIMULATION:
+MOVE L:
+
+![image](https://user-images.githubusercontent.com/94165326/175798869-43bc693b-c357-49be-96f6-074df431d88f.png)
+
+MOVE J:
+
+![image](https://user-images.githubusercontent.com/94165326/175798879-a0acd0bf-d177-45d3-b3c2-bbe21d639e12.png)
+
 
 
 
