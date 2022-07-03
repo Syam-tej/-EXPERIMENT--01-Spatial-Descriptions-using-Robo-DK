@@ -4,7 +4,7 @@
 
 ### SOFTWARE REQUIRED : ROBO DK Version 5.4
 
- ## THEORY
+### THEORY
  
  ###  New project
 Follow these steps to create a new RoboDK project (RDK station):
